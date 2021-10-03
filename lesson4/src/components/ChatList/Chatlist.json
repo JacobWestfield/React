@@ -1,0 +1,22 @@
+[
+    {
+        "id": "chat1",
+        "chat": "Messages",
+        "text": "Recent messages from corporation"
+    },
+    {
+        "id": "chat2",
+        "chat": "News",
+        "text": "World news"
+    },
+    {
+        "id": "chat3",
+        "chat": "Work",
+        "text": "New projects"
+    },
+    {
+        "id": "chat4",
+        "chat": "Family",
+        "text": "Ideas of family trip"
+    }
+]
